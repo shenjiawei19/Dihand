@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 python mange.py --help
 usage: mange.py [-?] {view,run,shell,runserver} ...
 
@@ -24,7 +23,3 @@ optional arguments:
   -t [TASKS [TASKS ...]], --tasks [TASKS [TASKS ...]]
                         tasks name.
   -p APPS, --apps APPS  app name.
-=======
-# Dihand
-基于flask实现 数据工作流的全程控制系统，希望大家协助一起改进
->>>>>>> 5c6de32aa442a6a8fae9ba9ddf914ed577709245
